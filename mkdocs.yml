@@ -1,4 +1,5 @@
 site_name: Quad9 Documentation
+site_url: https://ztheory.github.io/mkdocs-material-youtube-tutorial/
 
 plugins:
   - social
