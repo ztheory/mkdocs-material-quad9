@@ -29,16 +29,16 @@ theme:
 
   language: en
   palette:
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/brightness-7
-        name: Switch to dark mode
+        name: Switch to Light Mode
       primary: pink
       accent: pink
-    - scheme: slate 
+    - scheme: default
       toggle:
         icon: material/brightness-4
-        name: Switch to light mode    
+        name: Switch to Dark Mode
       primary: pink
       accent: pink
 
